@@ -20,7 +20,7 @@ endchaos uber.com --full --contribute
 	- Crowdsourced endpoint intelligence (opt-in)
 
 This is the tool that ends the "8-hour recon" era.
-Status: v0.1.0 shipping November 28, 2025
+
 Built on: ProjectDiscovery tools + blood, sweat, and hatred for slow recon
 
 ## Installation
